@@ -1,3 +1,3 @@
-Hi, there!
-I am Salina Chhetri.
-I am currently pursuing bachelor in computer science and I'm passionate to learn,build and explore the world of development.
+Hi,
+I'm Salina Chhetri, currently pursuing bachelor's in computer science.
+Passionate about learning, building, and decoding the secrets of the 0s and 1s.
